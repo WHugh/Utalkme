@@ -1,0 +1,6 @@
+F:\Visual Studio Workspace\Projects\UTalkServer\UTalkServer\bin\Debug\UTalkServer.exe.config
+F:\Visual Studio Workspace\Projects\UTalkServer\UTalkServer\bin\Debug\UTalkServer.exe
+F:\Visual Studio Workspace\Projects\UTalkServer\UTalkServer\bin\Debug\UTalkServer.pdb
+F:\Visual Studio Workspace\Projects\UTalkServer\UTalkServer\obj\Debug\UTalkServer.exe
+F:\Visual Studio Workspace\Projects\UTalkServer\UTalkServer\obj\Debug\UTalkServer.pdb
+F:\Visual Studio Workspace\Projects\UTalkServer\UTalkServer\obj\Debug\UTalkServer.csprojResolveAssemblyReference.cache
