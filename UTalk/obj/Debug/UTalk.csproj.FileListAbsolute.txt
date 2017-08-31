@@ -1,0 +1,5 @@
+F:\Visual Studio Workspace\Projects\UTalk\UTalk\bin\Debug\UTalk.exe.config
+F:\Visual Studio Workspace\Projects\UTalk\UTalk\bin\Debug\UTalk.exe
+F:\Visual Studio Workspace\Projects\UTalk\UTalk\bin\Debug\UTalk.pdb
+F:\Visual Studio Workspace\Projects\UTalk\UTalk\obj\Debug\UTalk.exe
+F:\Visual Studio Workspace\Projects\UTalk\UTalk\obj\Debug\UTalk.pdb
